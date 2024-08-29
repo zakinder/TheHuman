@@ -5,9 +5,9 @@ Topics
 
     Want Vs Choice
     Choice Vs Mux
-    Right Vs L(eft).ight
+    R(ight) Vs L(eft).ight
     SeeSaw Vs Scale
-    JudgementDay (Unssen Vs Seen) Vs (TheHuman.SA)
+    JudgementDay (UnSeen Vs Seen) Vs (TheHuman.SA)
     Killer Vs Death
     KillerOfAdamEve Vs (TheHuman.SA)
     KilledAdamEve(HuntOfRootCause) Vs (TheHuman.SA)
